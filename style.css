@@ -1,0 +1,140 @@
+
+.h3{
+    padding-right:200px ;
+    padding-left: 500px ;
+}
+.h1{
+   padding-left: 220px;
+  }
+p.p1{
+    font-size: 35px;
+    text-align: center;
+    margin-top: -15px;
+}
+p.p2{
+    padding-left: 280px;
+}
+p.p3{
+    width: 100;
+    padding-right: 280px;
+    padding-left: 280px;
+    font-size: 20px;
+    line-height: 1.6em;
+    word-spacing: 0.1em;
+}
+p.p5{
+    padding-left: 230px;
+    font-size: 20px;
+}
+p.p6{
+    padding-left: 270px;
+    font-size: 21px;
+    line-height: 30px;
+}
+p.p7{
+    justify-content: center;
+}
+.img-1{
+    padding-right: 200px;
+    padding-left:  250px;
+    padding-top: 20px;
+}
+.navbar ul{
+    padding-left: 60px;
+    list-style: none;
+    height: 45px;
+    background-color: rgb(223, 212, 212);
+    text-align: center;
+  }
+  .navbar li{
+    float: left;
+  }
+  .navbar a:hover{
+    color: rgb(5, 214, 99);
+  }
+  .navbar a{
+    display: block;
+    padding: 0 30px;
+    color: rgb(61, 59, 59);
+    text-decoration: none;
+    padding: 25 20;
+    font-weight: bold;
+    font-size: 19px;
+  }
+    .second-nav a:hover {
+        color:rgb(5, 214, 99);
+    }
+    .second-nav ul{
+        margin: 0;
+        padding-left: 80px;
+        list-style: none;
+        height: 30px;
+        text-align: center;
+      }
+      .second-nav li{
+        float: left;
+      }
+      .second-nav a{
+        display: block;
+        padding-left: 8px;
+        color: black;
+        text-decoration: none;
+        padding: 0 20;
+        /* font-weight: bold; */
+        text-align: center;
+        font-size: 15px;
+      }
+      .div{
+        display: flex;
+      }
+   .credit{
+    font-weight: bold;
+   }
+    form{
+    padding-left: 280px;
+    border: none;
+ }  
+   h4{
+    padding-left: 280px;
+    color: red;
+   }
+   .img-1{
+    padding-left: 500px;
+   }
+   p.submit{
+    padding: 6px 12px 6px 12px;
+    border: 1px solid #665544;
+    color: #ffffff;}
+input.submit:hover {
+background-color: yellow;}
+input.submit:active {
+background-color: white;}
+input.text {
+color: #cccccc;
+
+}
+form input{
+  height: 22px;
+}
+.form{
+  margin-right: 80px;
+  margin-left: 20px;
+  border-radius: 5px;
+  border-color: antiquewhite;
+}
+.search{
+  margin-right: 80px;
+  margin-left: 50px;
+  border-radius: 5px;
+  border-color: antiquewhite;
+  padding-bottom: 1.5vw;
+}
+.textarea{
+  margin-right: 80px;
+  margin-left: 20px;
+  border-radius: 5px;
+  border-color: rgb(235, 231, 225);
+}
+   
+    
+   
